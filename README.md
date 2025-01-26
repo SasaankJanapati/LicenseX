@@ -228,7 +228,8 @@ A player is declared **bankrupt** if they owe more than they can pay either to a
 
 ### 🛠️ CS22B036 - Sonith  
 - Game Play Logic Implementation in Unity  
-- Scene Integration  
+- Scene Integration
+- Asset Collection 
 
 ### 🛠️ CS22B046 - Mokshith  
 - Card Content  
