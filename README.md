@@ -1,5 +1,5 @@
 # 🌟 LicenseX 🌟  
-______________🎮 Acquire License Win 🎮_____________
+🎮 Acquire License Win 🎮
 
 This edition of Monopoly mixes the classic gameplay with valuable lessons on 🖥️ software licensing. Players move around the board to 🏛️ claim software spaces, 🔐 secure licenses, and ⚠️ discover the impacts of licensing violations.
 
@@ -216,3 +216,39 @@ A player is declared **bankrupt** if they owe more than they can pay either to a
 ### 🔄 **Miscellaneous Rules**  
 - 💸 **Loans**: Money can only be loaned to players by the Bank, and only in exchange for mortgaging property.  
 - 🚫 **No Player Loans**: Players may **not borrow from or lend money to each other**.  
+
+---
+
+## 👥 **Contributions**
+
+### 🛠️ CS22B002 - Jyothiraditya  
+- Asset Creation  
+- Game Play Logic Implementation in Unity  
+- Scene Integration  
+
+### 🛠️ CS22B036 - Sonith  
+- Game Play Logic Implementation in Unity  
+- Scene Integration  
+
+### 🛠️ CS22B046 - Mokshith  
+- Card Content  
+- Game Content  
+- Main Menu UI in Unity  
+- Scene Integration  
+
+### 🎨 CS22B048 - Pavan  
+- Board Card Design  
+- Asset Collection  
+- Music  
+
+### 🎲 CS22B059 - Sasaank  
+- Card Design  
+- Game Mechanics  
+- Card Content  
+- The Rule Book  
+
+### 🎲 CS22B060 - Madhav  
+- Card Design  
+- Game Mechanics  
+- Board Content  
+- The Rule Book  
